@@ -1,7 +1,5 @@
 <img width="1672" height="941" alt="point-x-readme-hero" src="https://github.com/user-attachments/assets/ef5ee3c4-066b-4b6d-90a7-194ce01e6636" />
-# Point X
 
-**Navigation without the map.**
 
 Point X is a spatial navigation platform built around digital beacons.
 
